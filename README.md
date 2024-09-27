@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Abdulrhman-Adnan
+- 👀 I’m interested in AI an Machine Learning
+- 🌱 I’m currently learning Machine Learning
